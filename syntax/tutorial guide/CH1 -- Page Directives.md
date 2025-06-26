@@ -4,7 +4,7 @@ You will learn
 
 + basic structure of page directives
   
-+ meaning page directives
++ meaning of page directives
 
 ## CH1.1 -- basic structure of page directives
 
@@ -16,7 +16,7 @@ It is enclosed with `<%@` and `%>`
 <%@ ... %>
 ```
 
-## CH1.2 -- meaning page directives
+## CH1.2 -- meaning of page directives
 
 Take page directives of `Login.aspx` for example,
 
