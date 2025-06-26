@@ -1,4 +1,4 @@
-# CH1
+# CH1 -- Page Directives
 ## objectives
 You will learn
 
@@ -7,6 +7,14 @@ You will learn
 + meaning page directives
 
 ## CH1.1 -- basic structure of page directives
+
+It must be on top of `.aspx` file.
+
+It is enclosed with `<%@` and `%>` 
+
+```
+<%@ ... %>
+```
 
 ## CH1.2 -- meaning page directives
 
