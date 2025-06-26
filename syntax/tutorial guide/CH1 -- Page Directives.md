@@ -95,4 +95,4 @@ public void Page_Load(){
 
 ## reference
 ### Google Gemini
-+ [`What is Page directive in ASP.NET Web Forms`](https://g.co/gemini/share/ab989e640eea)
++ [`Google Gemini's response -- What is Page directive in ASP.NET Web Forms`](https://g.co/gemini/share/ab989e640eea)
