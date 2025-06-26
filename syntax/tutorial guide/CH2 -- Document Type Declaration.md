@@ -6,6 +6,8 @@ You will learn
 
 + meaning of Document Type Declaration
 
++ importance of Document Type Declaration for most web development
+
 ## CH2.1 -- basic structure of Document Type Declaration
 + It MUST be next below to Page Directives
 
@@ -48,3 +50,38 @@ Here `W3C` identifies W3C (stands for World Wide Web Consortium) is the owner or
 > For more details, see [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 
 Here `DTD` states that the identified resource is a DTD (stands for Document Type Definition).
+
++ In `XHTML 1.0`
+
+It specifies that the document conforms to the `XHTML 1.0` Transitional standard.
+
++ In `Transitional`
+
+The word is self-explanatory, it is more lenient in the document.
+
++ In `EN`
+
+It indicates that the `DTD` use English.
+
++ In `"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"`
+
+A system identifier, which points `"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"` to the document
+
+on the W3C (stands for World Wide Web Consortium) website.
+
+## CH2.3 -- importance of Document Type Declaration for most web development
+1. Browser Rendering Mode: The Document Type Declaration (in `<!DOCTYPE`)  tells the browser which rendering mode to use
+2. Validation: It allows tools (and theoretically browsers) to validate that your HTML/XHTML.
+3. Backward Compatibility: The `Transitional` in "-//W3C//DTD XHTML 1.0 Transitional//EN" indicates that it is more lenient in the document (as we discussed befor),
+
+it is often used for backward compatibity.
+
+## reference
+### Google Gemini
++ About `<!DOCTYPE !>`,
+
+    see [Google Gemini's response -- What is `<!DOCTYPE !>`](https://g.co/gemini/share/b90af93ad1c5)
+
++ About importance of Document Type Declaration for most web development
+
+    see [Google Gemini's response -- importance of Document Type Declaration for most web development](https://g.co/gemini/share/b90af93ad1c5)
